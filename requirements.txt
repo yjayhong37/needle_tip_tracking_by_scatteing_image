@@ -1,0 +1,11 @@
+torch~=2.0.0
+torchvision~=0.15.1
+
+
+numpy~=1.24.3
+tqdm~=4.65.0
+scikit-learn~=1.2.2
+pillow~=9.5.0
+
+# Plotting
+matplotlib~=3.7.1
