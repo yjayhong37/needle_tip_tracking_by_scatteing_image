@@ -56,7 +56,7 @@ And only first three values from original csv files  are needed. Also, for the b
 
 Due to the lack of the number of data, the model is somewhat simple, light-weight yet powerful. Also, Attention layer is added (here in this repo, attention layer is commented) 
 
-## <img src="./img/Modified_arch.png">
+![arch](file:///home/yeho/Downloads/Modifed_arch.png)
 
 # 3. Application
 
