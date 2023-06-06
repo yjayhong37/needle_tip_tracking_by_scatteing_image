@@ -2,4 +2,5 @@
 
 
 # 1. Data Pre-Processing
+![image files look like this](./img/0.png_)
     
