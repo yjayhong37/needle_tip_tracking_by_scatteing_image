@@ -54,7 +54,7 @@ And only first three values from original csv files  are needed. Also, for the b
 
 # 2. Model
 
-Due to the lack of the number of data, the model is somewhat simple, light-weight yet powerful. Also, Attention layer is added (here in this repo, attention layer is commented) 
+Due to the lack of the number of data, the model is somewhat simple, light-weight yet powerful.
 
 <img src="./img/Modifed_arch.png">
 
@@ -73,3 +73,24 @@ This model achieved a promising result as shown in the table below
 | **_y_** |              2.0283 ± 1.6948             |
 | **_z_** |              2.7550 ± 1.9911             |
 | L2-Norm |              3.8337 ± 2.1074             |
+
+# 5. How to ?
+
+  ### 1. Install dependencies
+
+    pip install -r requirements.txt
+    
+    
+  ### 2. Pre-Processing
+
+    using extracting_xyz.ipynb, get pre-processed xyz files in a new folder
+    
+    
+  ### 3. Train and Test
+
+
+      python train&eval.py
+
+    
+    
+
