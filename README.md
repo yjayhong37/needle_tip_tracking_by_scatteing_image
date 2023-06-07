@@ -2,9 +2,9 @@
 
 Paper [Needle Tip Tracking by Scattering Imaging] is submitted to [CRAS 2023](https://cras-eu.org/). 
 
-The research was supported by Maersk Mc-Kinney Moller Institute, University of Southern Denmark 
+The research was supported by Maersk Mc-Kinney Moller Institute, University of Southern Denmark and the MOTIE(Ministry of Trade, Industry, and Energy) in Korea, under the Fostering GlobalTalents for Innovative Growth Program related to Robotics(P0017311) supervisedby the Korea 
 
-and the MOTIE(Ministry of Trade, Industry, and Energy) in Korea, under the Fostering GlobalTalents for Innovative Growth Program related to Robotics(P0017311) supervisedby the Korea Institute for Advancement of Technology (KIAT)
+Institute for Advancement of Technology (KIAT)
 
 ## Abstract
 Medical needle tip tracking plays an important role in various needle-based procedures such as biopsy, tumor ablation, intravenous access and deep brain stimulation. 
